@@ -1,0 +1,320 @@
+{
+  "palettes": [
+    {
+      "palette": "okabe-ito",
+      "changed": false,
+      "colors": [
+        {
+          "name": "orange",
+          "color": "#E69F00"
+        },
+        {
+          "name": "skyblue",
+          "color": "#56B4E9"
+        },
+        {
+          "name": "bluishgreen",
+          "color": "#009E73"
+        },
+        {
+          "name": "yellow",
+          "color": "#F0E442"
+        },
+        {
+          "name": "blue",
+          "color": "#0072B2"
+        },
+        {
+          "name": "vermillion",
+          "color": "#D55E00"
+        },
+        {
+          "name": "reddishpurple",
+          "color": "#CC79A7"
+        },
+        {
+          "name": "black",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "palette": "high-contrast",
+      "changed": false,
+      "colors": [
+        {
+          "name": "white",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "gold",
+          "color": "#DDAA33"
+        },
+        {
+          "name": "red",
+          "color": "#BB5566"
+        },
+        {
+          "name": "blue",
+          "color": "#004488"
+        },
+        {
+          "name": "black",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "palette": "medium-contrast",
+      "changed": false,
+      "colors": [
+        {
+          "name": "white",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "light-gold",
+          "color": "#EECC66"
+        },
+        {
+          "name": "pink",
+          "color": "#EE99AA"
+        },
+        {
+          "name": "light-blue",
+          "color": "#6699CC"
+        },
+        {
+          "name": "dark-gold",
+          "color": "#997700"
+        },
+        {
+          "name": "maroon",
+          "color": "#994455"
+        },
+        {
+          "name": "navy",
+          "color": "#004488"
+        },
+        {
+          "name": "black",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "palette": "light",
+      "changed": false,
+      "colors": [
+        {
+          "name": "light-blue-1",
+          "color": "#77AADD"
+        },
+        {
+          "name": "light-blue-2",
+          "color": "#99DDFF"
+        },
+        {
+          "name": "green-1",
+          "color": "#44BB99"
+        },
+        {
+          "name": "green-2",
+          "color": "#BBCC33"
+        },
+        {
+          "name": "olive",
+          "color": "#AAAA00"
+        },
+        {
+          "name": "pale-yellow",
+          "color": "#EEDD88"
+        },
+        {
+          "name": "salmon",
+          "color": "#EE8866"
+        },
+        {
+          "name": "pink",
+          "color": "#FFAABB"
+        },
+        {
+          "name": "light-gray",
+          "color": "#DDDDDD"
+        }
+      ]
+    },
+    {
+      "palette": "muted",
+      "changed": false,
+      "colors": [
+        {
+          "name": "deep-blue",
+          "color": "#332288"
+        },
+        {
+          "name": "light-cyan",
+          "color": "#88CCEE"
+        },
+        {
+          "name": "teal",
+          "color": "#44AA99"
+        },
+        {
+          "name": "green",
+          "color": "#117733"
+        },
+        {
+          "name": "olive",
+          "color": "#999933"
+        },
+        {
+          "name": "sand",
+          "color": "#DDCC77"
+        },
+        {
+          "name": "rose",
+          "color": "#CC6677"
+        },
+        {
+          "name": "burgundy",
+          "color": "#882255"
+        },
+        {
+          "name": "purple",
+          "color": "#AA4499"
+        },
+        {
+          "name": "gray",
+          "color": "#DDDDDD"
+        }
+      ]
+    },
+    {
+      "palette": "safe",
+      "changed": false,
+      "colors": [
+        {
+          "name": "light-blue",
+          "color": "#88CCEE"
+        },
+        {
+          "name": "rose",
+          "color": "#CC6677"
+        },
+        {
+          "name": "sand",
+          "color": "#DDCC77"
+        },
+        {
+          "name": "green",
+          "color": "#117733"
+        },
+        {
+          "name": "navy",
+          "color": "#332288"
+        },
+        {
+          "name": "purple",
+          "color": "#AA4499"
+        },
+        {
+          "name": "teal",
+          "color": "#44AA99"
+        },
+        {
+          "name": "olive",
+          "color": "#999933"
+        },
+        {
+          "name": "burgundy",
+          "color": "#882255"
+        },
+        {
+          "name": "brown",
+          "color": "#661100"
+        },
+        {
+          "name": "blue",
+          "color": "#6699CC"
+        },
+        {
+          "name": "gray",
+          "color": "#888888"
+        }
+      ]
+    },
+    {
+      "palette": "mnsu-primary",
+      "changed": false,
+      "colors": [
+        {
+          "name": "MSU Maverick Gold",
+          "color": "#FEBD11"
+        },
+        {
+          "name": "MSU Maverick Purple",
+          "color": "#49306E"
+        },
+        {
+          "name": "white",
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "palette": "mnsu-secondary",
+      "changed": false,
+      "colors": [
+        {
+          "name": "secondary-1",
+          "color": "#8B6F90"
+        },
+        {
+          "name": "secondary-2",
+          "color": "#3E375A"
+        },
+        {
+          "name": "secondary-3",
+          "color": "#565458"
+        },
+        {
+          "name": "secondary-4",
+          "color": "#D18B56"
+        },
+        {
+          "name": "secondary-5",
+          "color": "#8EA370"
+        },
+        {
+          "name": "secondary-6",
+          "color": "#6288A9"
+        },
+        {
+          "name": "secondary-7",
+          "color": "#A1634E"
+        },
+        {
+          "name": "secondary-8",
+          "color": "#4C6B65"
+        },
+        {
+          "name": "secondary-9",
+          "color": "#3A5870"
+        },
+        {
+          "name": "secondary-10",
+          "color": "#908E92"
+        },
+        {
+          "name": "secondary-11",
+          "color": "#BBB7B9"
+        },
+        {
+          "name": "secondary-12",
+          "color": "#DCD8D9"
+        }
+      ]
+    }
+  ]
+}
