@@ -40,10 +40,10 @@ The included documentation walks through a **complete workflow for producing acc
 
 A typical accessible math workflow demonstrated in this project:
 
-1. Author math in a markup language (e.g., LaTeX)  
-2. Embed math into an HTML document  
-3. Render using a web engine like MathJax  
-4. Ensure semantic structure for assistive technologies  
+1. Author math and surrounding content in a markup language (e.g., LaTeX, Markdown).
+2. Embed math or other manipulatives into an HTML document.
+3. Render using a web engine like MathJax, MathML.
+4. Ensure semantic structure for assistive technologies.
 
 This hybrid approach balances usability for authors with accessibility for readers.
 
@@ -52,9 +52,7 @@ This hybrid approach balances usability for authors with accessibility for reade
 ```text
 .
 ├── accessible_math_documentation_page.html   # Main documentation page
-├── styles.css                               # Styling
-├── README.md                                # Project overview
-└── _config.yml                              # GitHub Pages config
+└── README.md                                # Project overview
 ```
 
 ## Getting Started
